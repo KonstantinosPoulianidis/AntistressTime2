@@ -1,8 +1,15 @@
 /*!
-    * Start Bootstrap - Agency v6.0.0 (https://startbootstrap.com/template-overviews/agency)
-    * Copyright 2013-2020 Start Bootstrap
-    * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
-    */
+ΣΧΟΛΗ ΕΠΙΣΤΗΜΩΝ ΠΛΗΡΟΦΟΡΙΑΣ ΤΜΗΜΑ ΕΦΑΡΜΟΣΜΕΝΗΣ ΠΛΗΡΟΦΟΡΙΚΗΣ
+ΠΡΟΓΡΑΜΜΑ ΜΕΤΑΠΤΥΧΙΑΚΩΝ ΣΠΟΥΔΩΝ ΣΤΗΝ ΕΦΑΡΜΟΣΜΕΝΗ ΠΛΗΡΟΦΟΡΙΚΗ ΜΕ ΚΑΤΕΥΘΥΝΣΗ ΤΗΝ ΕΠΙΣΤΗΜΗ ΚΑΙ ΤΕΧΝΟΛΟΓΙΑ Η/Υ
+
+Εργασία Προόδου στο μάθημα
+Ανάπτυξη Εφαρμογών Ιστού και Κινητών Συσκευών
+με τίτλο:ANTI – STRESS TIME
+του
+ΚΩΝΣΤΑΝΤΙΝΟΥ ΠΟΥΛΙΑΝΙΔΗ
+Επιβλέπων Καθηγητής: κ. ΚΑΣΚΑΛΗΣ ΘΕΟΔΩΡΟΣ 
+Θεσσαλονίκη ΙΟΥΝΙΟΣ-ΙΟΥΛΙΟΣ 2020*/
+
     (function ($) {
     "use strict"; // Start of use strict
 
